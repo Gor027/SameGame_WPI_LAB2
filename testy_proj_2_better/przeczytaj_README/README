@@ -1,0 +1,15 @@
+W TYM FOLDERZE WRZUCACIE BINARKĘ (wynik kompilacji) NAZWANĄ 
+
+prze
+ 
+odpalacie skrypt (jak nie działa to chmod +x compare.sh)
+przy uzyciu komendy (po przejsciu do tego folderu)
+./compare.sh
+
+Jeśli nic nie wypisuje to dobrze
+Jeśli w ogole sie nie zatrzymuje, uruchom skrypt ./compare2.sh ktory wypisuje nazwy sprawdzanych plikow
+Pamietajcie, ze testy nie sprawdzaja zwalniania pamieci
+
+Jesli jestescie pewni swojego rozwiazania a testerka wyrzuca blad, napiszcie na grupie
+
+credits dla autora poprzednich testow
